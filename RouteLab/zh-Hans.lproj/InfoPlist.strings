@@ -1,0 +1,2 @@
+"NSLocationWhenInUseUsageDescription" = "使用当前位置准备行程，并记录实际路线、距离、停车和到达时间。行程中切换地图或锁屏后仍继续定位。";
+"NSFaceIDUsageDescription" = "验证身份以解锁保存在本机的个人行程。";
